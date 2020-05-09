@@ -118,15 +118,15 @@ header {
 }
 
 /* Tambahkan CSS untuk menu-icon */
-/* .menu-icon {
+.menu-icon {
   color: white;
   float: right;
   font-size: 25px;
-  padding: 21px 0; */
+  padding: 21px 0;
+  display: none; 
   /* Gantikan property display ke none */
-/*  display: none;  */
+  
 }
-
 
 .lesson-wrapper {
   padding-bottom: 80px;
